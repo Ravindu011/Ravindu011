@@ -25,7 +25,9 @@
 <div align="center"> 
   <h2> 
     <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" align="center">
-    <b > Skills</b>
+    <b >Technologies and Languages</b>
+	      <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" align="center">
+
   </h2>
 </div>
 
@@ -36,15 +38,13 @@
 
 
 
-<div>
 
-![](https://github-readme-stats.vercel.app/api?username=Ravindu011&theme=radical&hide_border=true&include_all_commits=true&count_private=true&border_radius=45px)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ravindu011&theme=radical&hide_border=true&border_radius=45px)
 
 </div>
+
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu011&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=45px)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu011&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=45px)
  
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -62,6 +62,7 @@
 <a href="https://instagram.com/_ravindu_c_rathnayake_" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ravindu_c_rathnayake_" height="30" width="40" /></a>
 </p>
 </div>
+
 
 
 
