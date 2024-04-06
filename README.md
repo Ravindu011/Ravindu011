@@ -44,7 +44,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu011&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=45px)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu011&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=45px)
  
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
