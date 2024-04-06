@@ -4,7 +4,8 @@
   </div>
   <h1  align="center" >I'm <br/> Ravindu C Rathnayake</h1>
 <div width="100%">
-  
+    <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
   <div align=" width="40%">
 <p>🔭 I’m currently working on Greenhouse Management System </p>
 
@@ -44,7 +45,10 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu011&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=45px)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu011&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=45px&bg_color=000080,000080,000000,000000)
+
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ravindu011&bg_color=000080&border_radius=45px&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&" alt="ravisolanki" />
+
  
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -52,7 +56,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravindu011&label=Profile%20views&color=3cb043&style=flat" alt="ravindu011" /> 	<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravindu011&label=Profile%20views&color=000080&style=flat" alt="ravindu011" /> 	<img height="50" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </p>
 
 <div align="right">
@@ -62,6 +66,8 @@
 <a href="https://instagram.com/_ravindu_c_rathnayake_" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ravindu_c_rathnayake_" height="30" width="40" /></a>
 </p>
 </div>
+
+
 
 
 
