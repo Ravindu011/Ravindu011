@@ -41,7 +41,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu011&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=45px&bg_color=000080,000080,000000,000000)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu011&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=30px&bg_color=000080,000080,000000,000000)
 
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ravindu011&bg_color=000080&border_radius=45px&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&" alt="ravisolanki" />
 
