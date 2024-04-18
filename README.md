@@ -2,6 +2,8 @@
 	 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px height = 100px align="center"> <br/>
  	 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width=90px>
   </div>
+
+  
   <h1  align="center" >I'm <br/> Ravindu C Rathnayake</h1>
 <div width="100%">
    <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
