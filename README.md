@@ -11,7 +11,7 @@
   <div align=" width="40%">
 <p>🔭 I’m currently working on Greenhouse Management System </p>
 
-<p>🌱 I’m currently learning React</p>
+<p>🌱 I’m currently learning React & Angular</p>
 
 <p>📫 How to reach me ravinduc2001@gmail.com</p>
 
